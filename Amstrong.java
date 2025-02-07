@@ -3,7 +3,9 @@ import java.util.*;
 public class Amstrong{
 	    public static void main(String[] args) {
 	    File file=new File("input.txt");
-	    int number = 371, originalNumber, remainder, result = 0;
+	    Scanner sc=new Scanner(System.in);
+	    int number,originalNumber, remainder, result = 0;
+	    number=sc.nextInt();
 	    originalNumber = number;
 	    while (originalNumber != 0)
 	        {
