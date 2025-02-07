@@ -1,5 +1,7 @@
 import java.util.*;
 import java.io.File;
+import java.util.Scanner;
+import java.util.IOException;
 public class Amstrong{
 	    public static void main(String[] args) {
 	    try{
