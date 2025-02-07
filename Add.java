@@ -24,7 +24,7 @@ public class Add{
 			System.out.println("Odd: "+odd);
 			System.out.println("Even: "+even);
 	}
-	catch(IOException e){
+	catch(FileNotFoundException e){
 		System.out.println("File not found");
 		e.printStackTrace();
 	}
