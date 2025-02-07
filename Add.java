@@ -1,6 +1,6 @@
 import java.util.Scanner;
 import java.io.File;
-impport java.io.FileNotFoundException;
+import java.io.IOException;
 public class Add{
 	public static void main(String args[]) {
 		try {
