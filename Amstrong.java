@@ -22,7 +22,7 @@ public class Amstrong{
 	        else
 	            System.out.println(number + " is not an Armstrong number.");
 	    }catch(Exception e){
-		Systenm.out.println("error");
+		System.out.println("error");
 	    }
 	    }
 	}
