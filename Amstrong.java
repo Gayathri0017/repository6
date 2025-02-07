@@ -1,5 +1,6 @@
 package com.assignment;
 import java.util.*;
+import java.io.File;
 public class Amstrong{
 	    public static void main(String[] args) {
 	    File file=new File("input.txt");
